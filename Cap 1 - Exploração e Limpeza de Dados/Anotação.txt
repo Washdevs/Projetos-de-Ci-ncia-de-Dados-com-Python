@@ -2,3 +2,18 @@ Capítulo 1:
     7 Exercícios,
     1 Atividade,
     Páginas de 11 a 65
+
+    Capítulo 1 - diferentes tipos de problemas de ciencia de dados.
+        - Temos que dominar a arte da ciencia e da modelagem preditiva, usar modelos matematicos para formulação matematica idealizada
+        para aprender que relacionamentos estão acontecendo entre os dados, na esperanca de previsões precisas na entrada de novos dados.
+        - Para este fim os dados são organizados em estrutura tubular, com caracteristicas e uma variavel de resposta. Por exemplo, 
+        para prever o preço de uma casa usando caracteristicas como area e numero de quartos, isto são caracteristicas, 
+        o preço seria a variavel resposta, variavel alvo ou variavel dependente.
+        - Depois que tivermos treinado o modelo para entender o relacionamento entre as caracteristicas e a resposta, 
+        pode empregalo para fazer previsões para casas onde não sabemos os preços. O objetivo da modelagem preditiva é encontrar um valor
+        que esteja o mais próximo do valor real da casa. Ja que estamos prevendo um valor numero em unma escala continua isso se chama, problema de regrassão.
+
+        Problema de classificação.
+        Pro outro lado, se tentassemos responder uma resposta de sim ou não, como: 'proprietário vai vender a casa nos proximos 5 anos?' ou 'o proprietário podera pagar a hipoteca da casa?'
+        estariamos lidando com problema de classificação. Neste caso esperamos dar a resposta afirmativa ou negativa correta. 
+        figura 1.10 mostra como o modelo funciona e  qausis podem ser os resultaos dos modelos de regres são e classificação.
