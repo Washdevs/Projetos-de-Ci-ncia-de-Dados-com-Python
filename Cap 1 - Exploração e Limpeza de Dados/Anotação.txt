@@ -16,4 +16,4 @@ Capítulo 1:
         Problema de classificação.
         Pro outro lado, se tentassemos responder uma resposta de sim ou não, como: 'proprietário vai vender a casa nos proximos 5 anos?' ou 'o proprietário podera pagar a hipoteca da casa?'
         estariamos lidando com problema de classificação. Neste caso esperamos dar a resposta afirmativa ou negativa correta. 
-        figura 1.10 mostra como o modelo funciona e  qausis podem ser os resultaos dos modelos de regres são e classificação.
+        figura 1.10 mostra como o modelo funciona e quais podem ser os resultados dos modelos de regressão ou classificação.
